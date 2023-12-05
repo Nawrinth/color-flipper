@@ -1,0 +1,38 @@
+.heading{
+    font-size: xx-large;
+    color: rgb(255, 162, 0);
+
+}
+body{
+    height: 98vh;
+    
+    display: flex;
+    flex-direction: column;
+}
+span{
+    font-size: large;
+    color: rgb(255, 162, 0);
+
+}
+hr{
+    width: 100%;
+}
+
+#container{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+button{
+    outline: none;
+    font-size: 25px;
+    border-radius: 10px;
+    background: rgba(246, 70, 70, 0.962);
+    color: white;
+    
+    
+
+}
